@@ -1,5 +1,3 @@
-#-*-coding: utf-8 -*-
-# Adrien CHAMBON
 # TD 2 - Exercice 6
 from math import*
 
