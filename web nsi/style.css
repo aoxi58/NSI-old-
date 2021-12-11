@@ -1,0 +1,112 @@
+.droite {
+    height : 700px;
+    width :  50%;
+    background-color: #01070D;
+    float:left;
+    color: white;
+}
+
+
+
+.gauche{
+    float: left;
+    height : 700px;
+    width :  50%;
+    background-color: #01070D;
+    color: white;
+ 
+}
+
+body{
+    padding: 0;
+    margin: 0;
+    border: 1px solid black;
+    background-color: #01070D;
+    font-family:Arial, Helvetica, sans-serif ;
+    font-size: 17px;
+}
+.titre1{
+    text-align: center ;
+    font-size: 40px;
+    margin-bottom: 0;
+}
+.titre2{
+    text-align: center ;
+    font-size: 40px;
+    margin-bottom: 0;
+}
+.image1{ 
+    margin: 50px 39%;
+    border-radius: 30px;
+}
+.image2{ 
+    margin: 50px 39%;
+    border-radius: 30px;
+}
+.bio1{
+    margin: 50px 50px;
+    margin-top: 0;
+    padding: 5px;
+    border: 1px solid #999;
+    text-align: center;
+    border-radius: 15px;
+    padding: 15px;
+    
+}
+.bio2{
+    margin: 65px 50px 20px;
+    padding: 5px;
+    border: 1px solid #999;
+    text-align: center;
+    border-radius: 15px;
+    padding: 15px;
+}
+.titre_projet{
+    text-align: center;
+    font-size: 50px;
+    padding-top: 30px;
+    color: white;
+}
+.projet{
+    height : 700px;
+    width :  100%;
+    margin-top:730px;
+    background-color: #041C33;
+    border-radius: 40px; 
+}
+.key_image{
+    float: right;
+    border-radius: 30px;
+}
+.image3{
+    width: 400px;
+    margin-right: 100px;
+    margin-top: 30px;
+    border-radius: 30px;
+}
+.projet-def{
+    border:1px solid #999;
+    float:left;
+    margin-top: 30px;
+    margin-left: 50px;
+    border-radius: 30px;
+    text-align: center ;
+    color: white;
+    padding: 15px;
+    height : 425px;
+    width :  65%;
+    
+}
+.projettxt{
+    text-align: center;
+}
+h1{
+    margin-top: 0%;
+}
+
+
+
+
+
+
+
