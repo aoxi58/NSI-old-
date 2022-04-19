@@ -1,1 +1,1 @@
-👋 this repository is for NSI project
+👋 this repository is for NSI project (old content, please refer to LJR-NSI)
